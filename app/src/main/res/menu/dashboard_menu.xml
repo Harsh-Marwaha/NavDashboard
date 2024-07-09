@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmentBmi"
+        android:icon="@drawable/bmi"
+        android:title="BMI" />
+
+    <item
+        android:id="@+id/fragmentCalculator"
+        android:icon="@drawable/calculator"
+        android:title="Calculator" />
+
+    <item
+        android:id="@+id/fragmentTicTacToe"
+        android:icon="@drawable/tictactoe"
+        android:title="Tic Tac Toe" />
+
+    <item
+        android:id="@+id/fragmentImageView"
+        android:icon="@drawable/gallery"
+        android:title="Image View" />
+</menu>
